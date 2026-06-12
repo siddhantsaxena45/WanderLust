@@ -2,7 +2,6 @@
 
 Wanderlust is a web application that allows users to explore and book unique accommodations, including houses, rooms, castles, and camping spots. The project integrates a free map API (Google Maps) and provides user authentication, reviews, and category-based filtering.
 
-## hosted live -> https://wnaderlust-89l3.onrender.com/listings
 
 ## 🚀 Features
 - 🏠 **Browse Listings:** View various accommodations like houses, rooms, castles, and more.
